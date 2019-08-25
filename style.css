@@ -1,28 +1,19 @@
 body{
-    background-color: slategrey;
+    background-color: whitesmoke;
     
 }
 
     #pop1{
     text-align:center;
+    color: green;
     
 }
 #info1{
    text-align: center;
-
+    color: rgb(153, 78, 8);
 }
 
-#info2{
-text-align: center;
-}
 
-#info3{
-text-align: center;
-}
-
-#info4{
-text-align: center;
-}
 
 img{
     display:block;
