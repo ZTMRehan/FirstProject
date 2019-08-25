@@ -1,19 +1,31 @@
 body{
-    background-image: url(bc.jfif);
+    background-color: slategrey;
+    
 }
 
-h2{
-    color:Red;
-    text-align: center;
-    border:5px solid Grey;
-    cursor:pointer;
+    #pop1{
+    text-align:center;
+    
+}
+#info1{
+   text-align: center;
+
 }
 
-p{
-    color:yellow;
+#info2{
+text-align: center;
 }
 
-li{
-    list-style: none;
-    display: inline-block;
+#info3{
+text-align: center;
+}
+
+#info4{
+text-align: center;
+}
+
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
 }
