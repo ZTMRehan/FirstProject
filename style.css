@@ -1,0 +1,19 @@
+body{
+    background-image: url(bc.jfif);
+}
+
+h2{
+    color:Red;
+    text-align: center;
+    border:5px solid Grey;
+    cursor:pointer;
+}
+
+p{
+    color:yellow;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+}
